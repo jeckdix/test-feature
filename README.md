@@ -1,4 +1,4 @@
 
 # test-feature
 
-Update test fearures. 
+Update test features. 
